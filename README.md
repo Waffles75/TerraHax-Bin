@@ -1,4 +1,4 @@
-# TerraHax-Bin
+# TerraHax Modded Client - Legacy
 You can download this in the [releases](https://github.com/TerraHax/TerraHax-Bin/releases) section.
 | Supported Platforms |
 |---|
