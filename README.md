@@ -1,5 +1,11 @@
 # TerraHax-Bin
 You can download this in the [releases](https://github.com/TerraHax/TerraHax-Bin/releases) section.
+| Supported Platforms |
+|---|
+| macOS |
+| Linux |
+| Windows |
+
 | TerraHax Version | Game Version | External Download |
 |---|---|---|
 |TerraHax v1.0.0RC4|1.4.0.5|[1.0.0RC4](http://www.mediafire.com/folder/9mnezl83tyrxx/TerraHax_v1.0.0RC4)|
@@ -8,6 +14,7 @@ You can download this in the [releases](https://github.com/TerraHax/TerraHax-Bin
 #### [Supported Commands](Commands.txt)
 #### [Changelog](Changelog.txt)
 
+## Installation
 ### Windows Installation
 Make a backup of your Terraria.exe
 Then replace the exe with The modded version in this folder.
