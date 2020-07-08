@@ -6,10 +6,10 @@ You can download this in the [releases](https://github.com/TerraHax/TerraHax-Bin
 | Linux |
 | Windows |
 
-| TerraHax Version | Game Version | External Download |
-|---|---|---|
-|TerraHax v1.0.0RC4|1.4.0.5|[1.0.0RC4](http://www.mediafire.com/folder/9mnezl83tyrxx/TerraHax_v1.0.0RC4)|
-|TerraHax_v1.0.0RC3|1.4.0.4|[1.0.0RC3](http://www.mediafire.com/folder/svarihi1fnneu/TerraHax_v1.0.0RC3)|
+| TerraHax Version | Game Version | Github Download | External Download |
+|---|---|---|---|
+|TerraHax v1.0.0RC4|1.4.0.5|[1.0.0RC4](https://github.com/TerraHax/TerraHax-Bin/releases/tag/1.0.0RC4)|[1.0.0RC4](http://www.mediafire.com/folder/9mnezl83tyrxx/TerraHax_v1.0.0RC4)|
+|TerraHax_v1.0.0RC3|1.4.0.4|[1.0.0RC3](https://github.com/TerraHax/TerraHax-Bin/releases/tag/1.0.0RC3)|[1.0.0RC3](http://www.mediafire.com/folder/svarihi1fnneu/TerraHax_v1.0.0RC3)|
 
 #### [Supported Commands](Commands.txt)
 #### [Changelog](Changelog.txt)
