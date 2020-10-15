@@ -2,6 +2,14 @@ Whats new in TerraHax?
 
 Release Candidates
 ________________________________________________________________________
+v1.0.0 RC6
+--------------------
+Update to support 1.4.1.1
+
+v1.0.0 RC5
+--------------------
+Update to support 1.4.1.0
+
 v1.0.0 RC4
 --------------------
 Update to support 1.4.0.5
