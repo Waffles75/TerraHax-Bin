@@ -8,6 +8,7 @@ You can download this in the [releases](https://github.com/TerraHax/TerraHax-Bin
 
 | TerraHax Version | Game Version | Github Download | External Download |
 |---|---|---|---|
+|TerraHax_v1.0.0RC7|1.4.1.2|[1.0.0RC7](https://github.com/TerraHax/TerraHax-Bin/releases/tag/1.0.0RC7)|[1.0.0RC7](http://www.mediafire.com/folder/uf09vzx75at70/TerraHax_v1.0.0RC7)|
 |TerraHax_v1.0.0RC6|1.4.1.1|[1.0.0RC6](https://github.com/TerraHax/TerraHax-Bin/releases/tag/1.0.0RC6)|[1.0.0RC6](http://www.mediafire.com/folder/qxta0zkizaizc/TerraHax_v1.0.0RC6)|
 |TerraHax_v1.0.0RC5|1.4.1.0|[1.0.0RC5](https://github.com/TerraHax/TerraHax-Bin/releases/tag/1.0.0RC5)|[1.0.0RC5](http://www.mediafire.com/folder/n2b8lv261125h/TerraHax_v1.0.0RC5)|
 |TerraHax v1.0.0RC4|1.4.0.5|[1.0.0RC4](https://github.com/TerraHax/TerraHax-Bin/releases/tag/1.0.0RC4)|[1.0.0RC4](http://www.mediafire.com/folder/9mnezl83tyrxx/TerraHax_v1.0.0RC4)|
