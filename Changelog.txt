@@ -2,6 +2,17 @@ Whats new in TerraHax?
 
 Release Candidates
 ________________________________________________________________________
+v1.0.0 RC7
+--------------------
+Update to support 1.4.1.2
+
+::Known issues:: 
+- .fb is somewhat broken at the moment.
+- .track is HORRIBLY unoptimized. Id advise against using it. Its temporarily disabled
+- World edit may not work correctly in full screen.
+- When using .Infrange if you Ctrl toggle FPS plummets
+- Issue with .ciab: The actual item will not work without the cheat enabled
+
 v1.0.0 RC6
 --------------------
 Update to support 1.4.1.1
